@@ -1,1 +1,3 @@
 # Moving-a-turtle-bot-using-twist-messages-containing-linear-and-angular-velocity-with-PID-implementat
+A two-wheel motor driven robot car with an additional support with a speed control using PID (proportional, integral, and derivative). The setup is consisted of two DC motors which are attached to two wheels, an Arduino board, Proto- shield, an H-bridge and a battery. The PID is used in the speed control mechanism which will offer accurate control of the speed of the robot to the PC/user. The experiment shows the two wheeled robot moving in linear velocity and angular velocity as per the received twist message from ROS.<br>
+Upload and run main.ino in the arduino board car
